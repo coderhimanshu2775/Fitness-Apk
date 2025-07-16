@@ -2,6 +2,28 @@
 
 **FitnessTrackerApp** is a futuristic, dark-themed mobile app built with **React Native + Expo**, designed to help users monitor and improve their fitness goals. It includes tracking for water intake, steps, calories burned, sleep hours, and more — all in a modern and intuitive interface.
 
+## 📸 App Screenshots
+
+Here are some in-app previews of **FitnessTrackerApp**:
+
+<p align="center">
+  <img src="![1](https://github.com/user-attachments/assets/5f03469a-db44-45a7-a225-c9ba7b5e8161)
+" width="250"/>
+  <img src="![2](https://github.com/user-attachments/assets/439b929e-1d03-4989-9a12-2d25ff2f1e91)
+" width="250"/>
+  <img src="![3](https://github.com/user-attachments/assets/aa91e981-96f0-4b5a-942c-cf504ec4bfb8)
+" width="250"/>
+  <br/>
+  <img src="![4](https://github.com/user-attachments/assets/7e1b6d6a-f5f6-4c51-8f5d-740ab511100a)
+" width="250"/>
+  <img src="![5](https://github.com/user-attachments/assets/1a1aebcb-e564-4e7d-a523-d33c0e0033ee)
+" width="250"/>
+  <img src="![6](https://github.com/user-attachments/assets/773bae8b-976f-437d-84c0-446493e9f1c3)
+" width="250"/>
+  <img src="![7](https://github.com/user-attachments/assets/e6198b64-adf9-44ce-b92b-0fbfc5ff475c)
+" width="250"/>
+</p>
+
 ## 📲 Download the App (APK)
 
 Click below to download and install the latest version:
