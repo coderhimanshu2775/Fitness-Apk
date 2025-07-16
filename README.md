@@ -23,6 +23,10 @@ Click below to download and install the latest version:
 
 **👉 [Download APK](https://expo.dev/accounts/coderhimanshu2775/projects/FitnessTrackerApp/builds/c1f400ff-473d-4aa5-ac6a-9b32b6b81c0d)**
 
+#Project Co-Partner 
+Email:-thakurnishant19032005@gmail.com
+Github iD:-Nishantkumar1905
+
 ---
 
 ## ✨ Features
